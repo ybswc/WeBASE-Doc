@@ -10,7 +10,7 @@
 
 #### 接口URL
 
-http://localhost:5004/WeBASE-Sign/user/newUser?signUserId={signUserId}?appId={appId}&encryptType={encryptType}
+http://localhost:5004/WeBASE-Sign/user/newUser?signUserId={signUserId}&appId={appId}&encryptType={encryptType}
 
 #### 调用方法
 
